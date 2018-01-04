@@ -3,7 +3,7 @@
 
 
 效果图：
-(https://github.com/wuyaGit/StoryboardUpdateConstraintsDemo/blob/master/shotScreen.png)
+![示例1](https://github.com/wuyaGit/StoryboardUpdateConstraintsDemo/blob/master/shotScreen.png)
 
 ```
 if (examRoom.shotState) {
