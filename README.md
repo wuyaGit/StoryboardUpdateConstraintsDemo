@@ -7,6 +7,9 @@
 
 ![示例1](https://github.com/wuyaGit/StoryboardUpdateConstraintsDemo/blob/master/shotScreen.png)
 
+
+代码：
+
 ```
 if (examRoom.shotState) {
     ((UIButton *)[cell viewWithTag:15]).hidden = YES;  //上传按钮
